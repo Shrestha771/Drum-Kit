@@ -78,7 +78,3 @@ No installation required.
 ---
 
 
-
-### 👨‍💻 Author
-Susanta Roy  
-Frontend Web Development Practice Project
